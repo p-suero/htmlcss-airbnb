@@ -9,25 +9,27 @@
 #roma-background {
     background: url(img/rome.jpg);
     background-size: cover;
-    width: 100vw;
+    width: 100%;
     height: 100vh;
-    margin: 5px;
+    border: 5px solid white;
 }
 
 #prague-background {
     background: url(img/prague.jpg);
     background-size: cover;
-    width: 100vw;
+    width: 100%;
     height: 100vh;
-    margin: 5px;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
 }
 
 #london-background {
     background: url(img/london.webp);
     background-size: cover;
-    width: 100vw;
+    width: 100%;
     height: 100vh;
-    margin: 5px;
+    border: 5px solid white;
+
 }
 
 .opacity {
