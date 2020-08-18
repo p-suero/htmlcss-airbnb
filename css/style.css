@@ -19,15 +19,15 @@ body {
 }
 
 #rome {
-    background-image: url(img/rome.jpg);
+    background-image: url(../img/rome.jpg);
 }
 
 #prague {
-    background-image: url(img/prague.jpg);
+    background-image: url(../img/prague.jpg);
 }
 
 #london {
-    background-image: url(img/london.webp);
+    background-image: url(../img/london.webp);
 }
 
 .opacity {
