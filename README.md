@@ -1,1 +1,1 @@
-<p>#2 Gestione sezione fullscreen e creazione opacità con utilizzo di più livelli</p>
+<p>#2 Gestione sezioni fullscreen e creazione opacità con utilizzo di più livelli, attraverso le position.</p>
